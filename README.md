@@ -1,3 +1,3 @@
 # Plotting---R
-ggpubr \n
+ggpubr /n
 ggfortify
